@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Stas
+<h1 align="center">Приветствую, меня зовут Стас
 <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Hi.gif" height="32"/></h1>
 
 - 🌱 Что я изучаю **C#, WPF**
