@@ -28,6 +28,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=846&card_height=200)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=846&card_height=200)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscallo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscallo&layout=compact&theme=tokyonight)
