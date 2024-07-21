@@ -16,6 +16,7 @@
 ### Связь со мной:
 <p align="left">
 <a href="https://t.me/zero_indefined" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Telegram_2019_Logo.svg" alt="zero_indefined" height="40" width="40" /></a>
+<a href="mailto:oscallo.developer@gmail.com" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Gmail_icon.svg" alt="zero_indefined" height="40" width="40" /></a>
 </p>
 
 ### Изучаемые языки:
