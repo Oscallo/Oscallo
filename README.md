@@ -24,10 +24,6 @@
 <a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_WPF.svg" alt="wpf" width="40" height="40"/> </a> 
 </p>
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-</div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=840&card_height=200)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscallo&hide_border=true&show_icons=true&theme=tokyonight&card_width=470&card_height=200)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscallo&hide_border=true&layout=compact&theme=tokyonight&card_width=370&card_height=200)
