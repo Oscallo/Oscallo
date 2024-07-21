@@ -26,6 +26,7 @@
 <a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/NET_Core_Logo.svg" alt="Net-core" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Microsoft_.NET_logo.svg" alt="Net-framework" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_MySQL.png" alt="MySQL" width="40" height="40"/></a> 
+<a href="https://github.com/praeclarum/sqlite-net" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Sqlite-icon.svg" alt="Sql-Lite" width="40" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Git_icon.svg" alt="Git" width="40" height="40"/></a> 
 </p>
 
