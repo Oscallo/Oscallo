@@ -1,12 +1,6 @@
 <h1 align="center">Приветствую, меня зовут Стас
 <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Hi.gif" height="32"/></h1>
 
-- 🌱 Что я изучаю **C#, WPF**
-
-- 📫 Почта для связи: **oscallo.developer@gmail.com**
-
-- 🌍 Языки которыми владею: русский
-
 ![](https://komarev.com/ghpvc/?username=oscallo)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oscallo&theme=nord&hide_border=true&locale=ru&card_width=840&card_height=200)](https://git.io/streak-stats)
@@ -16,7 +10,7 @@
 ### Связь со мной:
 <p align="left">
 <a href="https://t.me/zero_indefined" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Telegram_2019_Logo.svg" alt="zero_indefined" height="40" width="40" /></a>
-<a href="mailto:oscallo.developer@gmail.com" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Gmail_icon.svg" alt="zero_indefined" height="40" width="40" /></a>
+<a href="mailto:oscallo.developer@gmail.com" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Gmail_icon.svg" alt="oscallo.developer@gmail.com" height="40" width="40" /></a>
 </p>
 
 ### Изучаемые языки:
@@ -30,3 +24,4 @@
 </p>
 
 
+ 
