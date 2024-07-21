@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://t.me/zero_indefined" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Telegram_2019_Logo.svg" alt="zero_indefined" height="40" width="40" /></a>
 <a href="mailto:oscallo.developer@gmail.com" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Gmail_icon.svg" alt="oscallo.developer@gmail.com" height="40" width="40" /></a>
-<a href="https://habr.com/ru/users/Oscallo/" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_habr.ipg" alt="habr" height="40" width="40" /></a>
+<a href="https://habr.com/ru/users/Oscallo/" target="blank"><img align="center" src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_habr.jpg" alt="habr" height="40" width="40" /></a>
 </p>
 
 ### Изучаемые языки:
