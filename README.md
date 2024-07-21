@@ -30,4 +30,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Git_icon.svg" alt="Git" width="40" height="40"/></a> 
 </p>
 
+### Используемые инструменты:
+<p align="left"> 
+<a href="https://visualstudio.microsoft.com/ru/vs/community/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/></a> 
+</p>
 
