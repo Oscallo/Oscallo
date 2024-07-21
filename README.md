@@ -29,5 +29,5 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oscallo&theme=tokyonight&hide_border=true&locale=ru&card_width=846&card_height=200)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscallo&hide_border=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscallo&hide_border=true&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscallo&hide_border=true&show_icons=true&theme=tokyonight&card_width=468&card_height=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscallo&hide_border=true&layout=compact&theme=tokyonight&card_width=379&card_height=200)
