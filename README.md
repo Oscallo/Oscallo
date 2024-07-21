@@ -16,14 +16,14 @@
 
 ### Изучаемые языки:
 <p align="left"> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_C_sharp.svg" alt="c-sharp" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Xaml_logo.png" alt="c-sharp" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_C_sharp.svg" alt="c-sharp" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Xaml_logo.png" alt="c-sharp" width="40" height="40"/></a> 
 </p>
 
 ### Изучаемые технологии:
 <p align="left"> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_WPF.svg" alt="wpf" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/NET_Core_Logo.svg" alt="net-core" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_WPF.svg" alt="wpf" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/NET_Core_Logo.svg" alt="net-core" width="40" height="40"/></a> 
 </p>
 
 
