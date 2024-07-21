@@ -22,9 +22,10 @@
 
 ### Изучаемые технологии:
 <p align="left"> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_WPF.svg" alt="wpf" width="40" height="40"/></a> 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/NET_Core_Logo.svg" alt="net-core" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Database-mysql.svg" alt="MySQL" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_WPF.svg" alt="WPF" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/NET_Core_Logo.svg" alt="Net-core" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Logo_MySQL.png" alt="MySQL" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Oscallo/Oscallo/blob/main/images/Git_icon.svg" alt="Git" width="40" height="40"/></a> 
 </p>
 
 
