@@ -7,9 +7,9 @@
 
 - 🌍 Языки которыми владею: русский
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oscallo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://komarev.com/ghpvc/?username=oscallo)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscallo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Связь со мной:
 <p align="left">
